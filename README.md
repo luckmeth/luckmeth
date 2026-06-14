@@ -38,7 +38,9 @@
 I'm **Methul Jayasuriya** (a.k.a. **`luckmeth`**) - a **Software Developer and IT Security Student** based in **Sri Lanka**. I build full-stack web apps, desktop apps, IoT systems, and AI-powered tools, with a strong focus on **security** and clean **UI/UX**.
 
 -  I'm the founder of **Slash Development** - I convert traditional businesses into modern, secure tech systems.
--  Studying **BSc Computer Security** at **Plymouth University UK**, Sri Lanka.
+-  Studied **Foundation Programme For Bacholer’s Degree** at **NSBM Green University**, Sri Lanka.
+-  Studied **Machine learning, Data Science and Generative AI with Python Course** at **Harvard University**, United States.
+-  Studyied **BSc Computer Security** at **Plymouth University UK**, United Kingdom.
 -  Deeply interested in **Zero Trust security**, **encryption (AES-256-GCM)**, and **autonomous AI security**.
 -  I ship real products - invoicing platforms, cloud-storage aggregators, photography sites, and more.
 -  Reach me: **methullakvindu5@gmail.com**
