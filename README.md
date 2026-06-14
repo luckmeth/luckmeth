@@ -40,7 +40,7 @@ I'm **Methul Jayasuriya** (a.k.a. **`luckmeth`**) - a **Software Developer and I
 -  I'm the founder of **Slash Development** - I convert traditional businesses into modern, secure tech systems.
 -  Studying **BSc Computer Security** at **Plymouth University UK**, Sri Lanka.
 -  Deeply interested in **Zero Trust security**, **encryption (AES-256-GCM)**, and **autonomous AI security**.
--  I ship real products — invoicing platforms, cloud-storage aggregators, photography sites, and more.
+-  I ship real products - invoicing platforms, cloud-storage aggregators, photography sites, and more.
 -  Reach me: **methullakvindu5@gmail.com**
 
 > Whether you found me as **Methul Jayasuriya**, **Methul Lakvindu Jayasuriya**, or just **luckmeth** - you're in the right place.
