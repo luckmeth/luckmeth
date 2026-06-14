@@ -10,7 +10,7 @@
 -->
 
 <h1 align="center">Hi, I'm Methul Jayasuriya </h1>
-<h3 align="center">Software Developer &amp; IT Security Student from Sri Lanka 🇱🇰 - Founder of Slash Development</h3>
+<h3 align="center">Software Developer &amp; IT Security Graduate from Sri Lanka 🇱🇰 - Founder of Slash Development</h3>
 
 <p align="center">
   <a href="https://portfolio-puce-delta-49.vercel.app/">
